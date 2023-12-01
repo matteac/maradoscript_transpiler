@@ -1,6 +1,6 @@
 # PeleScript to MaradoScript
-This project is a transpiler from PeleScript to MaradoScript.[^1]
-[^1]: Working on the Zig version.
+This project is a transpiler from PeleScript to MaradoScript.  
+*Working on the Zig version.*
 
 ## PeleScript
 PeleScript is a programming language designed by the creators of MaradoScript.  
