@@ -1,4 +1,3 @@
-# PeleScript to MaradoScript
 This project is a transpiler from PeleScript to MaradoScript.  
 *Working on the Zig version.*
 
